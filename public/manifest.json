@@ -1,0 +1,18 @@
+{
+  "name": "Blockchain Days'25 Networking Event",
+  "short_name": "BD'25 Network",
+  "description": "Blockchain Days'25 Networking Event uygulaması",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9FAFB",
+  "theme_color": "#6366F1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/icons/icon-144x144.svg",
+      "sizes": "72x72 96x96 128x128 144x144 152x152 192x192 384x384 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+} 
